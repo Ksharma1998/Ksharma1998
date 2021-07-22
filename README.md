@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ksharma1998
+- 👋 Hi, I’m Kethamakka.Karthikeya
 - 👀 I’m interested in Machine learning,Computer Vision, Data Science, Deep Learning, Image Processing and Software engineering
 - 🌱 I’m currently learning Deep Learning, MLOps and Software Engineering
 - 💞️ I’m looking to collaborate on Computer Vision, Image Processing, Deep Learning and Software Engineering Projects
